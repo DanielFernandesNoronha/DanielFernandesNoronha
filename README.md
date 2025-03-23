@@ -84,7 +84,7 @@ style="padding-right: 15px;" />
     align="left" 
     alt="Linguagens Mais Usadas" 
     height="200" 
-    tyle="padding-right: 10px;" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFernandesNoronha&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
