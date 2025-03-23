@@ -40,10 +40,10 @@ Desenvolvedor Full Stack em início de carreira, com foco na criação de soluç
 ---
 
 ### 📚 **Bibliotecas Utilizadas:**  
-<img align="left" alt="Flet" title="Flet" width="35px" src="file:///C:/Users/drfer/AppData/Local/Microsoft/Windows/INetCache/IE/QXNY53CJ/logo%20(2)[1].svg" style="padding-right: 15px;" />
+<img align="left" alt="Flet" title="Flet" width="35px" src="https://raw.githubusercontent.com/DanielFernandesNoronha/Imagens/main/logo.svg" style="padding-right: 15px;" />
 <img align="left" alt="Pandas" title="Pandas" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right: 15px;" />
 <img align="left" alt="NumPy" title="NumPy" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right: 15px;" />
-<img align="left" alt="Plotly" title="Plotly" width="35px" src="plotly.jpeg" style="padding-right: 15px;" />
+<img align="left" alt="Plotly" title="Plotly" width="35px" src="https://raw.githubusercontent.com/DanielFernandesNoronha/Imagens/main/plotly.jpeg" style="padding-right: 15px;" />
 
 <br><br>
 
@@ -57,7 +57,7 @@ Desenvolvedor Full Stack em início de carreira, com foco na criação de soluç
 <img align="left" alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right: 15px;" />
 <img align="left" alt="Java" title="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right: 15px;" />
 <img align="left" alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right: 15px;" />
-<img align="left" alt="Power BI" title="Power BI" width="35px" src="powerBI.png" style="padding-right: 15px;" />
+<img align="left" alt="Power BI" title="Power BI" width="35px" src="https://raw.githubusercontent.com/DanielFernandesNoronha/Imagens/main/powerBI.png" style="padding-right: 15px;" />
 <img align="left" alt="Figma" title="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
 style="padding-right: 15px;" />
 
