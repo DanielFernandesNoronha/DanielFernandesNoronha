@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Desenvolvedor Full Stack em início de carreira, com foco na criação de soluções dinâmicas e funcionais. Tenho experiência na construção de dashboards interativos utilizando Power BI e Python, aplicando técnicas de visualização de dados para transformar informações complexas em insights acessíveis. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas no IFCE - Campus Tabuleiro do Norte, onde aprimoro minhas habilidades em desenvolvimento de software e análise de dados.
+Desenvolvedor Full Stack em início de carreira, com foco na criação de soluções dinâmicas e funcionai. Tenho experiência na construção de dashboards interativos utilizando Power BI e Python, aplicando técnicas de visualização de dados para transformar informações complexas em insights acessíveis. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas no IFCE - Campus Tabuleiro do Norte, onde aprimoro minhas habilidades em desenvolvimento de software e análise de dados.
 
 <p align="left">
     <a href="https://wa.me/5588988958734" target="_blank">
@@ -10,6 +10,14 @@ Desenvolvedor Full Stack em início de carreira, com foco na criação de soluç
         alt="WhatsApp" 
         title="Fale comigo no WhatsApp" 
         src="https://custom-icon-badges.demolab.com/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        style="border-radius: 10px; border: 2px solid #444;"
+    />
+    </a>
+    <a href="https://www.linkedin.com/in/danielfernandes2009" target="_blank">
+    <img 
+        alt="LinkedIn" 
+        title="Meu perfil no LinkedIn" 
+        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         style="border-radius: 10px; border: 2px solid #444;"
     />
     </a>
