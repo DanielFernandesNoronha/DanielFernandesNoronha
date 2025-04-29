@@ -79,14 +79,10 @@ style="padding-right: 15px;" />
 
 ### 📊 Estatísticas GitHub
 
-<div align="center">
+### 📊 Estatísticas GitHub
 
- ### 📊 Estatísticas GitHub
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielFernandesNoronha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFernandesNoronha&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Usadas&langs_count=9) |
+|:--:|:--:|
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielFernandesNoronha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFernandesNoronha&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Usadas&langs_count=9)
-
-</div>
 
 
