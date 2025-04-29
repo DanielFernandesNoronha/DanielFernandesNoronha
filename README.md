@@ -77,23 +77,22 @@ style="padding-right: 15px;" />
 ---
 
 
-### 📊 Estatísticas GitHub:
+### 📊 Estatísticas GitHub
 
-<p>
+<div align="center">
+
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=DanielFernandesNoronha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="Estatísticas do GitHub de Daniel" 
+    height="180"
   />
 
   <img 
-    align="left" 
-    alt="Linguagens Mais Usadas" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFernandesNoronha&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFernandesNoronha&theme=tokyonight&layout=compact&custom_title=Linguagens Mais Usadas&langs_count=9" 
+    alt="Linguagens Mais Usadas por Daniel" 
+    height="180"
   />
-</p>
+
+</div>
+
 
