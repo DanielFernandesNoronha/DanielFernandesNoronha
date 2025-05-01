@@ -81,9 +81,3 @@ style="padding-right: 15px;" />
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielFernandesNoronha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFernandesNoronha&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Usadas&langs_count=9) |
 |:--:|:--:|
 
----
-
-### 📊 Portifólio de Dashboards
-
-[![Relatório Mega-Sena](caminho/da/imagem.png)](https://app.powerbi.com/view?r=eyJrIjoiMmQzNDYzMjYtODQzYy00ZmVmLTgwMTAtNjBmNDYxMTU0N2U2IiwidCI6ImY4ZTQzYTgxLTBmNjMtNDhhNi04NWMxLWYzODM4NzRlYjYxZCJ9)
-
