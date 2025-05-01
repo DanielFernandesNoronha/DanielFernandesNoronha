@@ -48,7 +48,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) no IFCE – C
 ---
 
 ### 📚 **Bibliotecas Utilizadas:**  
-<img align="left" alt="Flet" title="Flet" width="35px" src="https://raw.githubusercontent.com/DanielFernandesNoronha/Imagens/main/logo.svg" style="padding-right: 15px;" />
+<img align="left" alt="Flet" title="Flet" width="35px" src="https://raw.githubusercontent.com/DanielFernandesNoronha/Imagens/main/Logo Matplotlib.png" style="padding-right: 15px;" />
 <img align="left" alt="Pandas" title="Pandas" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right: 15px;" />
 <img align="left" alt="NumPy" title="NumPy" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right: 15px;" />
 <img align="left" alt="Plotly" title="Plotly" width="35px" src="https://raw.githubusercontent.com/DanielFernandesNoronha/Imagens/main/plotly.jpeg" style="padding-right: 15px;" />
