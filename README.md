@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Desenvolvedor Full Stack em início de carreira, com foco na criação de soluções dinâmicas e funcionai. Tenho experiência na construção de dashboards interativos utilizando Power BI e Python, aplicando técnicas de visualização de dados para transformar informações complexas em insights acessíveis. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas no IFCE - Campus Tabuleiro do Norte, onde aprimoro minhas habilidades em desenvolvimento de software e análise de dados.
+Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) no IFCE – Campus Tabuleiro do Norte, com foco em desenvolvimento fullstack e ciência de dados. Possuo experiência em projetos que envolvem análise e visualização de dados, criação de dashboards interativos e desenvolvimento de interfaces web. Tenho interesse especial por backend, modelagem de dados e aplicações baseadas em dados. Busco oportunidades para atuar como desenvolvedor fullstack ou cientista de dados, contribuindo com pensamento analítico, proatividade e capacidade de aprender rápido em equipe.
 
 <p align="left">
     <a href="https://wa.me/5588988958734" target="_blank">
