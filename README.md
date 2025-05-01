@@ -85,4 +85,5 @@ style="padding-right: 15px;" />
 
 ### 📊 Portifólio de Dashboards
 
-<iframe title="RelatorioMegaSena" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmQzNDYzMjYtODQzYy00ZmVmLTgwMTAtNjBmNDYxMTU0N2U2IiwidCI6ImY4ZTQzYTgxLTBmNjMtNDhhNi04NWMxLWYzODM4NzRlYjYxZCJ9" frameborder="0" allowFullScreen="true"></iframe>
+[![Relatório Mega-Sena](caminho/da/imagem.png)](https://app.powerbi.com/view?r=eyJrIjoiMmQzNDYzMjYtODQzYy00ZmVmLTgwMTAtNjBmNDYxMTU0N2U2IiwidCI6ImY4ZTQzYTgxLTBmNjMtNDhhNi04NWMxLWYzODM4NzRlYjYxZCJ9)
+
