@@ -2,42 +2,22 @@
 
 **`Cientiata de Dados em Inicio de Carreira`**
 
+Estudante de Análise e Desenvolvimento de Sistemas (4º semestre) no IFCE – Campus Tabuleiro do Norte, com foco em ciência de dados. Possuo experiência em projetos que envolvem análise e visualização de dados, criação de dashboards interativos e desenvolvimento de interfaces web. Tenho interesse especial por backend, modelagem de dados e aplicações baseadas em dados. Busco oportunidades para atuar como cientista de dados, contribuindo com pensamento analítico, proatividade e capacidade de aprender rápido em equipe.
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="30" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="45" height="30" alt="behance logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="30" alt="discord logo"  />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
-
-Estudante de Análise e Desenvolvimento de Sistemas (4º semestre) no IFCE – Campus Tabuleiro do Norte, com foco em ciência de dados. Possuo experiência em projetos que envolvem análise e visualização de dados, criação de dashboards interativos e desenvolvimento de interfaces web. Tenho interesse especial por backend, modelagem de dados e aplicações baseadas em dados. Busco oportunidades para atuar como cientista de dados, contribuindo com pensamento analítico, proatividade e capacidade de aprender rápido em equipe.
-
-<p align="left">
-    <a href="https://wa.me/5588988958734" target="_blank">
-    <img 
-        alt="WhatsApp" 
-        title="Fale comigo no WhatsApp" 
-        src="https://custom-icon-badges.demolab.com/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-        style="border-radius: 10px; border: 2px solid #444;"
-    />
-    </a>
-    <a href="https://www.linkedin.com/in/danielfernandes2009" target="_blank">
-    <img 
-        alt="LinkedIn" 
-        title="Meu perfil no LinkedIn" 
-        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        style="border-radius: 10px; border: 2px solid #444;"
-    />
-    </a>
-    <a href="https://github.com/SeuUsuario?tab=repositories&sort=stargazers" target="_blank">
-    <img 
-        alt="Total de estrelas" 
-        title="Total de estrelas no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/SeuUsuario?color=FFB800&style=for-the-badge&labelColor=E5AC00&logo=star&logoColor=white&label=Estrelas"
-        style="border-radius: 10px; border: 2px solid #444;"
-    />
-    </a>
-</p>
-
-
 ---
 
 ### 🚀 **Principal Linguagem:**  
