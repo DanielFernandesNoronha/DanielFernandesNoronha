@@ -13,7 +13,6 @@ Possuo experiência em projetos que envolvem análise e visualização de dados,
 Tenho interesse especial por backend, modelagem de dados e aplicações baseadas em dados.  
 Busco oportunidades para atuar como cientista de dados, contribuindo com pensamento analítico, proatividade e capacidade de aprender rápido em equipe.
 
----
 
 ### 📱 Contatos
 
@@ -26,12 +25,12 @@ Busco oportunidades para atuar como cientista de dados, contribuindo com pensame
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="30" alt="discord logo" />
 </div>
 
----
+
 
 ### 🚀 Principal Linguagem  
 [![Python](https://custom-icon-badges.demolab.com/badge/-Python-FF0000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
 
----
+
 
 ### 📚 Bibliotecas Utilizadas  
 
@@ -42,7 +41,7 @@ Busco oportunidades para atuar como cientista de dados, contribuindo com pensame
 
 <br><br>
 
----
+
 
 ### 🛠️ Outras Linguagens & Tecnologias  
 
@@ -56,7 +55,6 @@ Busco oportunidades para atuar como cientista de dados, contribuindo com pensame
 
 <br><br>
 
----
 
 ### 📊 Estatísticas GitHub
 
