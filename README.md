@@ -1,6 +1,6 @@
 # 🧑🏽‍💻 Daniel Fernandes
 
-**`Desenvolvedor FullStack & Cientiata de Dados em Inicio de Carreira`**
+**`Cientiata de Dados em Inicio de Carreira`**
 
 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) no IFCE – Campus Tabuleiro do Norte, com foco em ciência de dados. Possuo experiência em projetos que envolvem análise e visualização de dados, criação de dashboards interativos e desenvolvimento de interfaces web. Tenho interesse especial por backend, modelagem de dados e aplicações baseadas em dados. Busco oportunidades para atuar como cientista de dados, contribuindo com pensamento analítico, proatividade e capacidade de aprender rápido em equipe.
 
