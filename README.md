@@ -2,7 +2,13 @@
 
 **`Cientiata de Dados em Inicio de Carreira`**
 
-Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) no IFCE – Campus Tabuleiro do Norte, com foco em ciência de dados. Possuo experiência em projetos que envolvem análise e visualização de dados, criação de dashboards interativos e desenvolvimento de interfaces web. Tenho interesse especial por backend, modelagem de dados e aplicações baseadas em dados. Busco oportunidades para atuar como cientista de dados, contribuindo com pensamento analítico, proatividade e capacidade de aprender rápido em equipe.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+Estudante de Análise e Desenvolvimento de Sistemas (4º semestre) no IFCE – Campus Tabuleiro do Norte, com foco em ciência de dados. Possuo experiência em projetos que envolvem análise e visualização de dados, criação de dashboards interativos e desenvolvimento de interfaces web. Tenho interesse especial por backend, modelagem de dados e aplicações baseadas em dados. Busco oportunidades para atuar como cientista de dados, contribuindo com pensamento analítico, proatividade e capacidade de aprender rápido em equipe.
 
 <p align="left">
     <a href="https://wa.me/5588988958734" target="_blank">
@@ -76,10 +82,4 @@ style="padding-right: 15px;" />
 
 ###
 
----
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
