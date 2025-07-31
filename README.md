@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack & Cientiata de Dados em Inicio de Carreira`**
 
-Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) no IFCE – Campus Tabuleiro do Norte, com foco em desenvolvimento fullstack e ciência de dados. Possuo experiência em projetos que envolvem análise e visualização de dados, criação de dashboards interativos e desenvolvimento de interfaces web. Tenho interesse especial por backend, modelagem de dados e aplicações baseadas em dados. Busco oportunidades para atuar como desenvolvedor fullstack ou cientista de dados, contribuindo com pensamento analítico, proatividade e capacidade de aprender rápido em equipe.
+Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) no IFCE – Campus Tabuleiro do Norte, com foco em ciência de dados. Possuo experiência em projetos que envolvem análise e visualização de dados, criação de dashboards interativos e desenvolvimento de interfaces web. Tenho interesse especial por backend, modelagem de dados e aplicações baseadas em dados. Busco oportunidades para atuar como cientista de dados, contribuindo com pensamento analítico, proatividade e capacidade de aprender rápido em equipe.
 
 <p align="left">
     <a href="https://wa.me/5588988958734" target="_blank">
@@ -26,14 +26,6 @@ Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) no IFCE – C
         alt="Total de estrelas" 
         title="Total de estrelas no GitHub" 
         src="https://custom-icon-badges.demolab.com/github/stars/SeuUsuario?color=FFB800&style=for-the-badge&labelColor=E5AC00&logo=star&logoColor=white&label=Estrelas"
-        style="border-radius: 10px; border: 2px solid #444;"
-    />
-    </a>
-    <a href="https://github.com/SeuUsuario?tab=followers" target="_blank">
-    <img 
-        alt="Seguidores" 
-        title="Me siga no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/followers/SeuUsuario?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=github&label=Seguidores&logoColor=white"
         style="border-radius: 10px; border: 2px solid #444;"
     />
     </a>
@@ -81,3 +73,7 @@ style="padding-right: 15px;" />
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielFernandesNoronha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFernandesNoronha&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Usadas&langs_count=9) |
 |:--:|:--:|
 
+
+###
+
+<img src="https://raw.githubusercontent.com/its-war/its-war/output/snake.svg" alt="Snake animation" />
