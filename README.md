@@ -1,6 +1,10 @@
 # 🧑🏽‍💻 Daniel Fernandes
 
-![Gráfico de contribuições estilo Pac-Man](https://github.com/DanielFernandesNoronha/DanielFernandesNoronha/blob/main/output/pacman-contribution-graph.svg?raw=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 # **`Cientista de Dados em Início de Carreira`**
 
