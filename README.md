@@ -75,5 +75,5 @@ style="padding-right: 15px;" />
 
 
 ###
+![Gráfico de contribuições estilo Pac-Man](https://github.com/DanielFernandesNoronha/DanielFernandesNoronha/blob/main/output/pacman-contribution-graph.svg?raw=true)
 
-![Gráfico de contribuições estilo Pac-Man](https://raw.githubusercontent.com/DanielFernandesNoronha/DanielFernandesNoronha/output/pacman-contribution-graph.svg)
