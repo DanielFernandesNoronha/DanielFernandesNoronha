@@ -8,10 +8,7 @@
 
 # **`Cientista de Dados em Início de Carreira`**
 
-Estudante de Análise e Desenvolvimento de Sistemas (4º semestre) no IFCE – Campus Tabuleiro do Norte, com foco em ciência de dados.  
-Possuo experiência em projetos que envolvem análise e visualização de dados, criação de dashboards interativos e desenvolvimento de interfaces web.  
-Tenho interesse especial por backend, modelagem de dados e aplicações baseadas em dados.  
-Busco oportunidades para atuar como cientista de dados, contribuindo com pensamento analítico, proatividade e capacidade de aprender rápido em equipe.
+Estudante de Análise e Desenvolvimento de Sistemas no IFCE – Campus Tabuleiro do Norte, com foco em Ciência de Dados e desenvolvimento de soluções digitais orientadas a dados. Tenho experiência em programação (Python, SQL, HTML, CSS, JavaScript), lógica de programação, POO, estruturas de dados, visualização de dados e design de interfaces. Atuo em projeto de pesquisa na Seeway, startup incubada no IFCE, desenvolvendo dashboards interativos em Power BI, analisando dados municipais e criando interfaces que facilitam a interpretação das informações. Também colaboro com conteúdos visuais para redes sociais e design de produtos digitais. Participei do Siará Tech Summit e de visitas técnicas voltadas à inovação e empreendedorismo, ampliando minha visão sobre o impacto da tecnologia no mercado. Busco consolidar minha carreira em Data Science, unindo análise, estatística e programação para gerar insights estratégicos e soluções de impacto real.
 
 
 ### 📱 Contatos
