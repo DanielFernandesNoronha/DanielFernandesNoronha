@@ -53,7 +53,20 @@ Estudante de Análise e Desenvolvimento de Sistemas no IFCE – Campus Tabuleiro
 <br><br>
 
 
-### 📊 Estatísticas GitHub
+---
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielFernandesNoronha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFernandesNoronha&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Usadas&langs_count=9) |
-|:--:|:--:|
+### 📊 Estatísticas
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RuanVianaBatista&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+      </td>
+      <td align="center">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RuanVianaBatista&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" />
+</td>
+    </tr>
+  </table>
+</div>
+
