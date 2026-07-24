@@ -6,12 +6,11 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-## Analista de Dados & Líder de Produto
+## Analista de BI e Negócios | Power BI | SQL | Análise de Dados | Gestão de Processos & UX
 
-Estudante de Análise e Desenvolvimento de Sistemas no IFCE – Campus Tabuleiro do Norte. Atuo na interseção entre Análise de Dados, Automação de Processos e Gestão de Produtos Digitais.
+Estudante de Análise e Desenvolvimento de Sistemas no IFCE, com foco na ponte entre inteligência de dados, automação de processos e experiência do usuário.
 
-- Seeway: Desenvolvimento da plataforma web Panopty, construção de dashboards executivos no Power BI e análise de dados para o setor público.
-- OxenTech: Cofundador focado na concepção de produtos digitais, mapeamento de requisitos, arquitetura de fluxos e IA aplicada (AgroBot, ConectaSaúde).
+Desenvolvo soluções end-to-end: desde o entendimento da dor do negócio e mapeamento de requisitos até a criação de dashboards executivos, otimização de fluxos operacionais e prototipação de produtos digitais intuitivos.
 
 ---
 
@@ -29,27 +28,32 @@ Estudante de Análise e Desenvolvimento de Sistemas no IFCE – Campus Tabuleiro
 
 <br><br>
 
-### Principal Linguagem & Análise de Dados
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
-[![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
+### BI & Análise de Dados
 [![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/DanielFernandesNoronha?tab=repositories)
-
-<br>
-
-### Bibliotecas & Ferramentas de Dados
+[![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
 
 <br>
 
-### Outras Linguagens, Automação & UX
+### Gestão de Processos & Automação
+[![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
+[![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
+
+<br>
+
+### Produto & UX Design
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
+[![UX/UI](https://img.shields.io/badge/UX%2FUI-000000?style=flat-square&logo=figma&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
+
+<br>
+
+### Desenvolvimento & IA Aplicada
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/DanielFernandesNoronha?tab=repositories)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
 
 ---
 
