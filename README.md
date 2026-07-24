@@ -1,4 +1,4 @@
-# 🧑🏽‍💻 Daniel Fernandes
+# Daniel Fernandes
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
@@ -6,16 +6,16 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-## 🚀 Analista de Dados & Líder de Produto
+## Analista de Dados & Líder de Produto
 
-Estudante de Análise e Desenvolvimento de Sistemas no IFCE – Campus Tabuleiro do Norte. Atuo na interseção entre **Análise de Dados, Automação de Processos e Gestão de Produtos Digitais**.
+Estudante de Análise e Desenvolvimento de Sistemas no IFCE – Campus Tabuleiro do Norte. Atuo na interseção entre Análise de Dados, Automação de Processos e Gestão de Produtos Digitais.
 
-• **Seeway:** Desenvolvimento da plataforma web Panopty, construção de dashboards executivos no Power BI e análise de dados para o setor público.
-• **OxenTech:** Cofundador focado na concepção de produtos digitais, mapeamento de requisitos, arquitetura de fluxos com n8n e IA aplicada (AgroBot, ConectaSaúde).
+- Seeway: Desenvolvimento da plataforma web Panopty, construção de dashboards executivos no Power BI e análise de dados para o setor público.
+- OxenTech: Cofundador focado na concepção de produtos digitais, mapeamento de requisitos, arquitetura de fluxos e IA aplicada (AgroBot, ConectaSaúde).
 
 ---
 
-### 📱 Contatos
+### Contatos
 
 <a href="https://wa.me/5588981583038" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
@@ -29,36 +29,31 @@ Estudante de Análise e Desenvolvimento de Sistemas no IFCE – Campus Tabuleiro
 
 <br><br>
 
-### 🐍 Principal Linguagem & Análise de Dados
+### Principal Linguagem & Análise de Dados
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
 [![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
 [![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/DanielFernandesNoronha?tab=repositories)
 
 <br>
 
-### 📚 Bibliotecas & Ferramentas de Dados
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" title="Plotly" width="40" height="40"/>
-</p>
+### Bibliotecas & Ferramentas de Dados
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
 
 <br>
 
-### 🛠️ Outras Linguagens, Automação & UX
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" title="n8n" width="40" height="40"/>
-</p>
+### Outras Linguagens, Automação & UX
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/DanielFernandesNoronha?tab=repositories)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <div align="center">
   <table align="center">
