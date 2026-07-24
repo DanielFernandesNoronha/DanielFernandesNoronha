@@ -6,67 +6,69 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-# **`Cientista de Dados em Início de Carreira`**
+## 🚀 Analista de Dados & Líder de Produto
 
-Estudante de Análise e Desenvolvimento de Sistemas no IFCE – Campus Tabuleiro do Norte, com foco em Ciência de Dados e desenvolvimento de soluções digitais orientadas a dados. Tenho experiência em programação (Python, SQL, HTML, CSS, JavaScript, M, DAX), lógica de programação, POO, estruturas de dados, visualização de dados e design de interfaces. Atuo em projeto de pesquisa na Seeway, startup incubada no IFCE, desenvolvendo dashboards interativos em Power BI, analisando dados municipais e criando interfaces que facilitam a interpretação das informações. Também colaboro com conteúdos visuais para redes sociais e design de produtos digitais. Participei do Siará Tech Summit e de visitas técnicas voltadas à inovação e empreendedorismo, ampliando minha visão sobre o impacto da tecnologia no mercado. Busco consolidar minha carreira em Data Science, unindo análise, estatística e programação para gerar insights estratégicos e soluções de impacto real.
+Estudante de Análise e Desenvolvimento de Sistemas no IFCE – Campus Tabuleiro do Norte. Atuo na interseção entre **Análise de Dados, Automação de Processos e Gestão de Produtos Digitais**.
 
-
-### 📱 Contatos
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="35" height="30" alt="whatsapp logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="30" alt="linkedin logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="30" alt="gmail logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="35" height="30" alt="behance logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="30" alt="instagram logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="30" alt="discord logo" />
-</div>
-
-
-
-### 🚀 Principal Linguagem  
-[![Python](https://custom-icon-badges.demolab.com/badge/-Python-FF0000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
-
-
-
-### 📚 Bibliotecas Utilizadas  
-
-<img align="left" alt="Matplotlib" title="Matplotlib" width="35px" src="https://raw.githubusercontent.com/DanielFernandesNoronha/Imagens/main/Logo%20Matplotlib.png" />
-<img align="left" alt="Pandas" title="Pandas" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" alt="NumPy" title="NumPy" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="left" alt="Plotly" title="Plotly" width="35px" src="https://raw.githubusercontent.com/DanielFernandesNoronha/Imagens/main/plotly.jpeg" />
-
-<br><br>
-
-
-
-### 🛠️ Outras Linguagens & Tecnologias  
-
-<img align="left" alt="HTML" title="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Java" title="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Power BI" title="Power BI" width="35px" src="https://raw.githubusercontent.com/DanielFernandesNoronha/Imagens/main/powerBI.png" />
-<img align="left" alt="Figma" title="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-
-<br><br>
-
+• **Seeway:** Desenvolvimento da plataforma web Panopty, construção de dashboards executivos no Power BI e análise de dados para o setor público.
+• **OxenTech:** Cofundador focado na concepção de produtos digitais, mapeamento de requisitos, arquitetura de fluxos com n8n e IA aplicada (AgroBot, ConectaSaúde).
 
 ---
 
-### 📊 Estatísticas
+### 📱 Contatos
+
+<a href="https://wa.me/5588981583038" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="https://www.linkedin.com/in/daniel-fernandes-noronha" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:daniel.fer.nor8734@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<br><br>
+
+### 🐍 Principal Linguagem & Análise de Dados
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
+[![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/DanielFernandesNoronha?tab=repositories)
+[![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/DanielFernandesNoronha?tab=repositories)
+
+<br>
+
+### 📚 Bibliotecas & Ferramentas de Dados
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" title="Plotly" width="40" height="40"/>
+</p>
+
+<br>
+
+### 🛠️ Outras Linguagens, Automação & UX
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" title="n8n" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RuanVianaBatista&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielFernandesNoronha&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
       </td>
       <td align="center">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RuanVianaBatista&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" />
-</td>
+        <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielFernandesNoronha&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" />
+      </td>
     </tr>
   </table>
 </div>
-
