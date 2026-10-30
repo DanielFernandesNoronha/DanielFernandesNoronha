@@ -1,4 +1,4 @@
-```markdown
+
 # Olá, eu sou Daniel Fernandes! 👋
 
 ### Desenvolvedor Python | Inteligência Artificial | Engenharia de Software & Dados
